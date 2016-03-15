@@ -1,0 +1,7 @@
+/UnityHotfix/Library
+/UnityHotfix/Temp
+*.csproj
+*.sln
+*.suo
+/UnityHotfix/Assets/UnityVS
+/UnityHotfix/Assets/UnityVS.meta
