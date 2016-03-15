@@ -1,3 +1,6 @@
 $ git update-index --assume-unchanged /path/to/file       #忽略跟踪
 
 $ git update-index --no-assume-unchanged /path/to/file  #恢复跟踪
+
+$ touch .gitignore 生成.gitignore文件
+
